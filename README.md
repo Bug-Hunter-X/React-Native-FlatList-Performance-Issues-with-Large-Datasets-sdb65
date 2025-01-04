@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue in React Native when using FlatList with large datasets and provides an optimized solution. The bug involves significant lag and potential crashes when rendering a long list. The solution implements virtualization to improve performance by only rendering items visible on the screen.  The code is well-commented for clarity.
